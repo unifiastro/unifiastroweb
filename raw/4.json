@@ -1,0 +1,12 @@
+{
+    "title": "Integration and test of a test bench for the study of Next Generation of Extreme Adaptive Optics systems: Cascading AO ",
+    "topic": "Adaptive Optics, Instrumentation",
+    "thesis_type": "master",
+    "duration": "9",
+    "supervisor": "Marco Bonaglia",
+    "collaborators": "",
+    "requirements": "",
+    "description": "<p style=\"text-align: justify;\"><span data-sheets-root=\"1\">Next-generation astronomical and high-resolution imaging ground-based systems rely on Adaptive Optics (AO) to compensate for atmospheric turbulence and instrumental aberrations. To achieve the requisite performance, in the next future many existing or planned AO systems will move toward cascade configurations employing multiple stages to enhance correction and image contrast. This work addresses the engineering challenge of building a high-fidelity, complex optomechanical testbed to study and validate such multi-stage AO architectures.<br><\/span><\/p>\r\n<p><span data-sheets-root=\"1\">The thesis work includes:<\/span><\/p>\r\n<ul>\r\n<li><span data-sheets-root=\"1\">component testing: i.e. characterisation of all optomechanical components constituting the bench (already in-house);<\/span><\/li>\r\n<li><span data-sheets-root=\"1\">integration and test of the first optical relay and of the Pyramid Wavefront Sensor (WFS) &mdash; a critical component for high-order sensing;<\/span><\/li>\r\n<li><span data-sheets-root=\"1\">development of the system's overall control strategy;<\/span><\/li>\r\n<li><span data-sheets-root=\"1\">optional: second-stage integration (operating at a higher duty cycle for enhanced correction speed).<\/span><\/li>\r\n<\/ul>\r\n<p>&nbsp;<\/p>\r\n<p><strong><span data-sheets-root=\"1\">References<\/span><\/strong><\/p>\r\n<p><span data-sheets-root=\"1\"><a class=\"in-cell-link\" href=\"https:\/\/doi.org\/10.1117\/1.JATIS.8.1.019001\" target=\"_blank\" rel=\"noopener\">https:\/\/doi.org\/10.1117\/1.JATIS.8.1.019001<\/a><\/span><\/p>",
+    "contacts": "marco.bonaglia@inaf.it",
+    "image": ""
+}
