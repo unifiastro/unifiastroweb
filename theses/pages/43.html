@@ -4,45 +4,16 @@
     <meta charset='UTF-8'>
     <title>Confronting galaxy evolution models with spectroscopic observations on a safer ground using predicted spectral index strengths</title>
     <style>
-        /* LIGHT THEME */
-        body { 
-            background-color: #f5f5f5; 
-            background-image: url('../images/background.jpg');
-            background-size: cover;
-            background-attachment: fixed;
-            background-position: center;
-            padding: 2rem; 
-            font-family: 'Segoe UI', sans-serif; 
-            color: #333; 
-        }
-        
-        .container { 
-            max-width: 800px; margin: 0 auto; 
-            background: #ffffff; 
-            padding: 2rem; border-radius: 10px; 
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2); 
-        }
-        
+        body { background-color: #f5f5f5; background-image: url('../images/background.jpg'); background-size: cover; background-attachment: fixed; padding: 2rem; font-family: 'Segoe UI', sans-serif; color: #333; }
+        .container { max-width: 800px; margin: 0 auto; background: #ffffff; padding: 2rem; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); }
         .back-link { display: inline-block; margin-bottom: 1rem; color: #4a90e2; text-decoration: none; }
-        .back-link:hover { text-decoration: underline; }
-        
-        h1 { margin-bottom: 0.5rem; color: #333; }
-        
-        .meta { 
-            color: #666; margin-bottom: 2rem; line-height: 1.8; 
-            background: #f9f9f9; 
-            padding: 15px; border-radius: 5px; 
-        }
-        
+        .meta { color: #666; margin-bottom: 2rem; line-height: 1.8; background: #f9f9f9; padding: 15px; border-radius: 5px; }
         .section { margin-top: 2rem; }
+        h2 { border-bottom: 1px solid #eee; padding-bottom: 10px; margin-bottom: 15px; color: #333; }
         
-        h2 { 
-            border-bottom: 1px solid #eee; 
-            padding-bottom: 10px; margin-bottom: 15px; 
-            color: #333; 
-        }
-        
-        .justified-text { text-align: justify; }
+        /* RESTORED SPACING */
+        .justified-text { text-align: justify; } 
+        .justified-text p { margin-top: 0; margin-bottom: 10px; }
         
         .proposal-topic { display:none; } 
     </style>
@@ -50,14 +21,13 @@
 <body>
     <div class='container'>
         <a href='../index.html' class='back-link'>&larr; Back to List</a>
-        
         <h1>Confronting galaxy evolution models with spectroscopic observations on a safer ground using predicted spectral index strengths</h1>
         <div class='proposal-topic'>Galaxies and AGNs</div> 
         
         <div class='meta'>
             <strong>Topic:</strong> Galaxies and AGNs<br>
             <strong>Type:</strong> Master Thesis<br>
-            <strong>Duration (months):</strong> 6-9 months<br>
+            <strong>Duration (months):</strong> 6-9<br>
             <strong>Supervisor(s):</strong> Stefano Zibetti, Anna R. Gallazzi<br>
             
         </div>
@@ -71,19 +41,16 @@
             <h2>Description</h2>
             <div class="justified-text">Semi-analytic models (SAMs) of galaxy evolution like GAEA (De Lucia et al. 2024) provide detailed predictions for the assembly histories, star formation, and chemical evolution of galaxies across cosmic time. Traditional comparisons between models and observations rely on inferring physical stellar population parameters (ages, metallicities, star formation histories) from observed spectra—a process fraught with degeneracies and model-dependent assumptions. This thesis takes a fundamentally different approach: rather than reverse-engineering physical parameters from observations, we perform pure forward modeling by predicting observable spectral features directly from GAEA outputs and comparing these predictions with observations.<br />
 <br />
-Recent work has provided volume-corrected distributions of stellar absorption indices for >380,000 SDSS galaxies, accounting for both aperture bias and selection effects (Zibetti+2025, Mattolini+2025). The student will synthesize mock spectroscopic observations from GAEA SAM outputs (see Fontanot et al. 2024), generating realistic spectra from the model's predicted star formation histories using stellar population synthesis codes, and compute spectral indices in an identical manner to the observational measurements. This forward approach avoids the complexities and uncertainties of inverse stellar population modeling entirely, providing a direct, model-to-observable comparison on equal footing.<br />
-Statistical comparisons of predicted versus observed index distributions as a function of stellar mass, environment, and other galaxy properties will rigorously test GAEA's prescriptions for star formation histories, chemical enrichment timescales, and stellar population properties. The project offers hands-on experience with large spectroscopic datasets, semi-analytic models, stellar population synthesis, and statistical analysis techniques essential for modern extragalactic astrophysics.</div>
+Recent work has provided volume-corrected distributions of stellar absorption indices for &gt;380,000 SDSS galaxies, accounting for both aperture bias and selection effects (Zibetti+2025, Mattolini+2025). The student will synthesize mock spectroscopic observations from GAEA SAM outputs (see Fontanot et al. 2024), generating realistic spectra from the model&#039;s predicted star formation histories using stellar population synthesis codes, and compute spectral indices in an identical manner to the observational measurements. This forward approach avoids the complexities and uncertainties of inverse stellar population modeling entirely, providing a direct, model-to-observable comparison on equal footing.<br />
+Statistical comparisons of predicted versus observed index distributions as a function of stellar mass, environment, and other galaxy properties will rigorously test GAEA&#039;s prescriptions for star formation histories, chemical enrichment timescales, and stellar population properties. The project offers hands-on experience with large spectroscopic datasets, semi-analytic models, stellar population synthesis, and statistical analysis techniques essential for modern extragalactic astrophysics.</div>
         </div>
 
         <div class='section'><h2>References</h2><div>De Lucia G., Fontanot F., Xie L., Hirschmann M., 2024, A&amp;A, 687, A68<br />
 Fontanot F., La Barbera F., De Lucia G., Cecchi R., Xie L., Hirschmann M., Bruzual G., et al., 2024, A&amp;A, 686, A302<br />
 Mattolini D., Zibetti S., Gallazzi A. R., Scholz-Diaz L., Pratesi J., 2025, A&amp;A, 703, A5<br />
 Zibetti S., Pratesi J., Gallazzi A. R., Mattolini D., Scholz-Diaz L., 2025, arXiv, arXiv:2508.19462, A&amp;A submitted</div></div>
-
         <div class='section'><h2>Requirements</h2><div>General astrophysics courses, &quot;Physics of galaxies&quot; course. Programming skills (python and C recommended)</div></div>
-
         
-
     </div>
 </body>
 </html>
