@@ -1,0 +1,13 @@
+{
+    "title": "Stellar mass measurement of galaxies: calibration of photometric methods with integral field spectroscopy data",
+    "topic": "Galaxies and AGNs",
+    "thesis_type": "master",
+    "duration": "6-9",
+    "supervisor": "Stefano Zibetti, Anna R. Gallazzi",
+    "collaborators": "",
+    "references": "Gallazzi et al., 2005, MNRAS, 362, 41; Zibetti et al., 2009, MNRAS, 400, 1181; Zibetti et al., 2017, MNRAS, 468, 1902; Mattolini D., Zibetti S., Gallazzi A. R., Scholz-Diaz L., Pratesi J., 2025, A&A, 703, A5",
+    "requirements": "General astrophysics courses, \"Physics of galaxies\" course. Programming skills (python recommended)",
+    "description": "The stellar mass of a galaxy is a fundamental parameter for characterizing its nature. An accurate measurement of it is essential for cataloging the population of galaxies in the Universe (mass functions) and for establishing empirical links with other physical characteristics (age of stars, heavy element content, morphology, dynamics, etc.) that define the so-called \"scaling relations.\" Such information is, in turn, essential for understanding the physics of galaxies and their evolution.\nThe stellar mass is measured through the comparison of photometric and\/or spectroscopic data with stellar population synthesis models, using a large number of assumptions that limit the reliability of the estimates in absolute terms to no less than 20-30%.\nThis thesis aims to address the calibration of methods for estimating stellar masses using a rich dataset from the \"integral field\" spectroscopy survey CALIFA (~400 galaxies with a spatial resolution of ~1 kpc) complemented by images in various photometric bands. \n\nThe first objective is the derivation, testing, and calibration of relations that link the mass-to-light ratio to various \"colors\" (light ratios in different photometric bands), using advanced methods of stellar population synthesis and Bayesian statistics, which we have developed. These new relations will then be applied to the measurement of stellar mass using multi-band images in order to better quantify the differences between estimates obtained from resolved images compared to those using integrated fluxes. In the long term, this will allow for a revision of stellar mass functions and scaling relations based on the newly corrected mass estimates.\nThe student will utilize a vast database of already reduced and calibrated data (CALIFA, SDSS) and a large \"library\" of models, either already created (Zibetti et al. 2017; Mattolini et al. 2025) or to be reproduced with different assumptions.",
+    "contacts": "stefano.zibetti@inaf.it",
+    "image": ""
+}

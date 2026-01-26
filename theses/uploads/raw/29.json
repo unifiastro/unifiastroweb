@@ -1,0 +1,13 @@
+{
+    "title": "Optimal techniques to calibrate Adaptive Optics Systems for astronomical application",
+    "topic": "Instrumentation",
+    "thesis_type": "master",
+    "duration": "6",
+    "supervisor": "Armando Riccardi",
+    "collaborators": "",
+    "references": "Book on Adaptive Optics (AO) for astronomy in general:\nJ. Hardy \"Adaptive Optics for Astronomical Telescopes\" Oxford University Press, 1998\n\nBrief introduction on Astronomical AO:\nR. Davies, M. Kasper \"Adaptive Optics for Astronomy\" ARAA, 50, p305, 2012\nhttps:\/\/doi.org\/10.1146\/annurev-astro-081811-125447\n\nFocus on AO calibration, the subject of the thesis:\n\nKasper et al. \"Fast calibration of high-order adaptive optics systems\", JOSAA, 21, p1004, 2004\nhttps:\/\/doi.org\/10.1364\/JOSAA.21.001004\n\nRiccardi et al \"Calibration strategy of the pyramid wavefront sensor module of ERIS with the VLT deformable secondary mirror\", SPIE, 8447, p84475M, 2012\nhttps:\/\/doi.org\/10.1117\/12.927122\n\nMelmon et al, \"Optimized calibration strategy for high order adaptive optics systems in closed-loop: the slope-oriented Hadamard actuation\" Express, 23, p27134, 2015\nhttps:\/\/doi.org\/10.1364\/OE.23.027134",
+    "requirements": "The thesis work will require to produce some code for simulating the calibration process and to spend some time in the lab to test the concept. An attitude on both aspect is welcome.",
+    "description": "Adaptive Optics (AO) has become a standard requirement for large astronomical telescopes. It is used to correct, in real-time, the effects of atmospheric turbulence that cause \"seeing\" (image blurring). To meet the increasing demand for higher correction capabilities, many 8-meter class telescopes and most future ELTs (Extremely Large Telescopes) have implemented, or plan to implement, large-format adaptive mirrors directly within the telescope's optical train. This configuration typically prevents the calibration of these adaptive systems from being performed anywhere except directly on-sky, where the atmospheric turbulence itself interferes with and degrades the measurement process.\n\nThe objective of this thesis is to study optimal techniques for efficiently filtering the noise during the calibration process. This will involve comparing various techniques, initially through numerical simulations, and subsequently through laboratory verification.",
+    "contacts": "armando.riccardi@inaf.it",
+    "image": ""
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Chemical links in the coma of comets",
+    "topic": "Solar System, Astrobiology and Exoplanets",
+    "thesis_type": "master",
+    "duration": "6",
+    "supervisor": "Manuela Lippi",
+    "collaborators": "",
+    "references": "Lippi et al., 2023, 2022. Jehin et al., 2008. ",
+    "requirements": "",
+    "description": "The composition of active comets can be studied from ground based telescopes using high resolution spectroscopy in the infrared (IR - 3 to 5 \u03bcm) and the near-UV-Visible (nUV-V - 0.3 to 0.9 \u03bcm), where it is possible to observe emission lines produced by many molecular species. Specifically, in the IR it is possible to search for signatures of molecules released directly from the nucleus (i.e., primary species, e.g., H2O, CO, CH4, C2H6, NH3, HCN, HDO), while in the nUV-V domain it is instead possible to study the products that form from primary species through various physical and chemical processes in the coma (i.e., secondary species, e.g., OH, CN, C2, C3, NH2, NH, CO+, [OI]). Currently, there is no full agreement between the results obtained at different wavelengths. While observations in the nUV-V reveal two distinct chemical classes based on the C2\/CN ratio, results in the IR show a wide chemical diversity among comets, and despite the increasing number of observed targets an IR chemical classification nor a strong parallel with the nUV-V have yet been found. Moreover, chemical models describing the formation of secondary species from primary ones and the variation of molecular species in the coma with respect to the heliocentric distance are poorly described. \n\nDuring the thesis, the student will use statistical methods to analyze correlations and dependencies between selected parent and daughter species in the coma. Data are available in the literature and archives. Additional datasets may be added as a result of recently collected multiwavelength and simultaneous observations with telescopes such as CRIRES+ and UVES at the ESO VLT. The ultimate goal is to have a better understanding of the chemical mechanisms that may occur in cometary comae and to identify potential molecular connections and species parentage. \n\nIf you want to know more, please contact manuela.lippi@inaf.it.",
+    "contacts": "manuela.lippi@gmail.com",
+    "image": ""
+}

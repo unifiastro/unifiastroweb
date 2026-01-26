@@ -1,0 +1,13 @@
+{
+    "title": "Quantifying the dynamical impact of spiral arms in disk galaxies using stellar mass maps",
+    "topic": "Galaxies and AGNs",
+    "thesis_type": "master",
+    "duration": "6-9",
+    "supervisor": "Stefano Zibetti",
+    "collaborators": "",
+    "references": "Foyle K., Rix H.-W., Zibetti S., 2010, MNRAS, 407, 163\nZibetti et al., 2017, MNRAS, 468, 1902\nZibetti et al., 2009, MNRAS, 400, 1181\nBinney & Tremaine, Galactic dynamics (textbook)",
+    "requirements": "General astrophysics courses, \"Physics of galaxies\". Programming skills (python recommended)",
+    "description": "Spiral arms are prominent non-axisymmetric features in disc galaxies that may play an important role in redistributing angular momentum and driving secular evolution. However, their true mass contrast remains poorly constrained because most measurements rely on optical images, which can be biased by young stellar populations and dust extinction. This project will measure spiral arm mass contrasts using spatially-resolved stellar mass maps from the CALIFA survey (Zibetti et al. 2017), providing more reliable estimates of the underlying stellar mass distribution.\nSpiral arms for a small yet significant sample of spiral galaxies will be identified visually in optical images and traced onto the corresponding stellar mass maps. We will measure the mass surface density contrast between arm and inter-arm regions and investigate how these contrasts vary with radius and galaxy properties. By comparing mass-based measurements with optical contrasts, we will quantify the extent to which young stars enhance the apparent strength of spiral structure.\nUsing the measured mass contrasts to rescale existing torque estimates from the literature, we will assess the potential of spiral arms to redistribute angular momentum within galactic discs. This work will provide improved observational constraints on the dynamical impact of spiral structure and its role in disc galaxy evolution.",
+    "contacts": "stefano.zibetti@inaf.it",
+    "image": ""
+}

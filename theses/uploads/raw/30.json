@@ -1,0 +1,13 @@
+{
+    "title": "Wavefront control for the gravitational wave detector Einstein Telescope",
+    "topic": "Instrumentation",
+    "thesis_type": "master",
+    "duration": "6",
+    "supervisor": "Armando Riccardi",
+    "collaborators": "",
+    "references": "For a general vie of the Einstein Telescope:\nhttps:\/\/www.et-gw.eu\/\n\nFor a brief description of the wavefront control technique implemented in the ADONI-ET laboratory:\nhttps:\/\/pnrr.inaf.it\/adoniinaf-per-etic\/ ",
+    "requirements": "Prior coding experience is beneficial. Active participation in laboratory activities is required (or highly encouraged).",
+    "description": "The Einstein Telescope (ET) research project is a large European underground facility for a third-generation gravitational wave detector. It will be able to observe a volume of the universe about one thousand times larger than current second-generation instruments, namely the LIGO interferometers in the United States and Virgo in Italy. ET is planned to operate as a two-arm interferometer with an unprecedented high circulating laser power (up to megawatts, particularly in the high-frequency detector, $\\text{ET-HF}$) to achieve its target sensitivity. This immense power leads to residual absorption in the super-polished core optics (Test Masses), producing thermal distortions and corresponding wavefront degradation, which reduces the detector's sensitivity. The Arcetri Observatory in Florence hosts the ADONI-ET laboratory to study adaptive optics techniques to compensate these wavefront distortions and keep the detector sensitivity under control. The technique under study is based on the modulation, implemented by a deformable mirror, of a high-power laser's intensity pattern over an optical component. The absorption of this pattern produces a corresponding change of the component's optical properties, thereby generating the desired correction of the wavefront distortion.\n\nThe subject of the thesis will be the simulation of this correction process and its experimental verification in the ADONI-ET laboratory.",
+    "contacts": "armando.riccardi@inaf.it",
+    "image": ""
+}

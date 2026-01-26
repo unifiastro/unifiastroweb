@@ -1,0 +1,13 @@
+{
+    "title": "Particle acceleration and high energy emission from star clusters",
+    "topic": "Astroparticles and High-energy Astrophysics",
+    "thesis_type": "master",
+    "duration": "8-9",
+    "supervisor": "Giovanni Morlino",
+    "collaborators": "",
+    "references": "Bykov A. M. et al. (2020) Space Science Reviews, Volume 216, Issue 3\nMorlino G. et al (2021) \"Particle acceleration in winds of star clusters\"  MNRAS 504, 5096",
+    "requirements": "High energy Astrophysics; stellar evolution; numerical methods for Astrophysics",
+    "description": "Possible sources of cosmic rays and high-energy nonthermal radiation include winds produced by massive stars, particularly when these are located in star clusters with a high concentration of stars capable of generating powerful collective winds. This thesis proposes to study the nonthermal emission from such star clusters. The thesis requires the use of a cosmic ray acceleration model for shocks produced by stellar winds to calculate the nonthermal radiation emitted through hadronic and leptonic processes (synchrotron and inverse Compton). The student will then apply the model to real clusters, evaluating their observability in the gamma-ray band by Cherenkov-type telescopes and in the X-ray band. The initial part of the work will be developed with analytical models, but the student will also be required to learn how to use a programming language (preferably C, C++, Fortran, or Python) and software for visualizing the results (Mathematica, Python, IDL). The final part of the work may require learning how to use specific software for simulating Cherenkov observations (Ctools or Gammapy).",
+    "contacts": "giovanni.morlino@inaf.it",
+    "image": ""
+}

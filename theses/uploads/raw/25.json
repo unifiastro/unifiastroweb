@@ -1,0 +1,13 @@
+{
+    "title": "Numerical solvers for MOND modified gravity theories and their application to galaxy rotation curves",
+    "topic": "Galaxies and AGNs",
+    "thesis_type": "master",
+    "duration": "6-9",
+    "supervisor": "Federico Lelli",
+    "collaborators": "",
+    "references": "https:\/\/ui.adsabs.harvard.edu\/abs\/2012LRR....15...10F\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/1984ApJ...286....7B\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/1995MNRAS.276..453B\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2010MNRAS.403..886M\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2018A%26A...615A...3L\/abstract",
+    "requirements": "Basic knowledge of galaxy dynamics, programming languages (Python or C++), and Bayesian statistics would be appreciated, but they are not strictly required to start this research project.",
+    "description": "Milgromian dynamics (or Modified Newtonian Dynamics, MOND) is the major alternative to the non-baryonic dark matter paradigm. MOND modifies the non-relativistic laws of gravity and\/or inertia at low accelerations, below a characteristic acceleration scale a_0. MOND is very successful at reproducing the rotation curves of galaxies using only the observed distribution of baryons (gas and stars). Historically, these rotation-curve analyses have been done assuming MOND modified inertia theories, which result in a rather simple algebraic relation between the Newtonian gravitational field and the observed kinematic acceleration. However, MOND modified gravity theories (the only ones with viable relativistic metric extensions) make somewhat different predictions that require the solution of non-linear differential equations, which have exact analytic solution only in rather idealized cases. \n\nThe proposed master project aims to develop and test numerical approaches to solve the non-linear equations of different MOND modified gravity theories, then apply these solvers to a sample of 175 disk galaxies with high-quality rotation curves to possibly discriminate and\/or rule out different MOND theories.",
+    "contacts": "federico.lelli@inaf.it",
+    "image": ""
+}

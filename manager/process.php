@@ -66,6 +66,16 @@ $htmlContent = <<<HTML
 <!DOCTYPE html>
 <html lang='en'>
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SQESPYFYL7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-SQESPYFYL7');
+    </script>
+      
     <meta charset='UTF-8'>
     <title>$title</title>
     <style>

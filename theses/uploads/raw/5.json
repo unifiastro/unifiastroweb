@@ -1,0 +1,14 @@
+{
+    "id": "5",
+    "title": "Lo Zinco nel Gruppo Locale: tracciatore delle popolazioni stellari nelle galassie",
+    "topic": "Stars and Stellar Evolution",
+    "thesis_type": "bachelor",
+    "duration": "1-2",
+    "supervisor": "Marco Palla (referente UNIFI: Enrico Di Teodoro)",
+    "collaborators": "",
+    "description": "<p>Lo Zinco (Zn, numero atomico Z=30) appartiene al gruppo degli elementi comunemente noti come \"elementi del picco del Ferro\". La sua sintesi avviene prevalentemente per mezzo di stelle massive, originanti esplosioni di supernova per collasso del nucleo (Type II Supernovae). Nella Via Lattea, l'andamento delle abbondanze chimiche stellari dello Zinco, che traccia l'evoluzione chimica del mezzo interstellare (ISM), &egrave; simile a quello degli elementi \"&alpha;\" (come Ossigeno, Magnesio e Silicio). Questa correlazione suggerisce una similitudine tra le stelle produttrici di Zn e quelle che formano gli elementi &alpha;. Tuttavia, un comportamento differente si riscontra nelle galassie satelliti della Via Lattea, facenti parte del Gruppo Locale (ad esempio, le galassie nane di Sagittario o Sculptor). In queste, le osservazioni mostrano una marcata deficienza di Zinco rispetto agli elementi &alpha;, indicando una possibile variazione nei processi di arricchimento chimico tra la Via Lattea e le sue galassie nane.<\/p>\r\n<p>Questa tesi si propone di effettuare una prima analisi sulle popolazioni stellari di queste galassie satelliti. Il candidato valuter&agrave; l'arricchimento chimico dello Zinco mettendolo in relazione con quantit&agrave; astrofisiche fondamentali come gli yield stellari &mdash; ovvero le masse di elementi espulse dalle diverse tipologie di stelle al termine della loro vita &mdash; e la Funzione Iniziale di Massa (Initial Mass Function, IMF), cio&egrave; la distribuzione delle masse stellari al momento della loro formazione all'interno di una popolazione. I risultati di questa ricerca potranno vincolare l'IMF nelle galassie del Gruppo Locale, fornendo prove a supporto o per il rigetto dell'ipotesi di una sua variabilit&agrave; in ambienti galattici diversi.<\/p>",
+    "references": "1) https:\/\/ui.adsabs.harvard.edu\/abs\/2020ApJ...900..179K\/abstract\r\n2) https:\/\/ui.adsabs.harvard.edu\/abs\/2025A%26A...699A.356L\/abstract\r\n3) https:\/\/ui.adsabs.harvard.edu\/abs\/2017A%26A...606A..71S\/abstract",
+    "requirements": "Minima esperienza di programmazione in python e utilizzo delle principali librerie (ad esempio numpy, matplotlib). ",
+    "contacts": "marco.palla@inaf.it",
+    "image": ""
+}

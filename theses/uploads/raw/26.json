@@ -1,0 +1,13 @@
+{
+    "title": "Characterization of high and very-high-energy sources in our Galaxy",
+    "topic": "Astroparticles and High-energy Astrophysics",
+    "thesis_type": "master",
+    "duration": "6",
+    "supervisor": "Giada Peron",
+    "collaborators": "",
+    "references": "https:\/\/ui.adsabs.harvard.edu\/abs\/2024A%26A...689A.258C\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2019scta.book.....C\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2022JHEAp..35....1V\/abstract ",
+    "requirements": "Basic programming skills (Python). ",
+    "description": "Gamma rays are the highest energy part of the electromagnetic spectrum, conventionally above 100 keV. Gamma-ray astronomy is a relatively recent discipline that is closely related to particle physics. High-energy radiation is in fact produced by the interaction of highly energetic particles (mostly protons and electrons) with the interstellar gas, radiation, and magnetic fields. Observations of the emission in this energy range provide paramount information to constrain the origin and the properties of these cosmic particles, which is currently one of the main goals of high-energy astrophysics. \n\nThe project will focus on gamma-ray emission of Galactic sources, namely Supernova remnants, pulsar wind nebulae, stellar clusters and binary systems. The project will be aimed at preparing observations with the next generation ground based facilities like the ASTRI-MiniArray and the Cherenkov Telescope Array Observatory (CTAO). The candidate will make a selection of interesting targets for future facilities among the known Galactic sources, model the emission considering the available observational constraints, and simulate the observations considering a realistic astrophysical background.  \n\nThe project will make use of publicly available python libraries (e.g. astropy, naima, gammapy).",
+    "contacts": "giada.peron@inaf.it",
+    "image": ""
+}

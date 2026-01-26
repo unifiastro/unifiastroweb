@@ -1,0 +1,13 @@
+{
+    "title": "Hydrodynamical simulations of a multiphase intracluster medium to test MOND in galaxy clusters",
+    "topic": "Galaxies and AGNs",
+    "thesis_type": "master",
+    "duration": "6-9",
+    "supervisor": "Federico Lelli, Lucia Armillotta",
+    "collaborators": "",
+    "references": "https:\/\/ui.adsabs.harvard.edu\/abs\/2012LRR....15...10F\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2008NewAR..51..906M\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2024A%26A...688A..78K\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2025PhRvD.111l3042F\/abstract\nhttps:\/\/ui.adsabs.harvard.edu\/abs\/2017MNRAS.470..114A\/abstract",
+    "requirements": "Basic knowledge of galaxy clusters, fluid dynamics, and programming languages (Python and\/or C++) would be appreciated but they are not strictly required to start this thesis project.",
+    "description": "Milgromian Dynamics (or Modified Newtonian Dynamics, MOND) is the major alternative to the standard paradigm of non-baryonic dark matter. MOND modifies the nonrelativistic laws of gravity and\/or inertia at low accelerations, below a characteristic acceleration constant a_0. MOND is very successful on galaxy scales, being able to explain the internal dynamics of galaxies without the need of non-baryonic dark matter. However, MOND has a long-standing problem in galaxy clusters because it implies a residual mass discrepancy of about a factor of two. A possible solution is the presence of some baryonic \"dark matter\" in the central parts of galaxy clusters, such as compact clouds of cold gas that would be impossible to detect with current telescopes. \n\nThe proposed master thesis project will investigate this hypothesis by performing high-resolution hydrodynamic simulations of cold gas clouds moving through the hot intracluster medium. The main goal is to test under what conditions (masses, densities, temperatures) these clouds can survive against hydrodynamic instabilities and provide predictions for the up-coming Square Kilometre Array, which may potentially detect them.",
+    "contacts": "federico.lelli@inaf.it, lucia.armillotta@unifi.it",
+    "image": ""
+}

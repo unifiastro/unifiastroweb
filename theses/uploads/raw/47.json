@@ -1,0 +1,13 @@
+{
+    "title": "What do element abundance ratios in galaxies stellar populations tell us about their star formation efficiency?",
+    "topic": "Galaxies and AGNs",
+    "thesis_type": "master",
+    "duration": "9",
+    "supervisor": "Anna Gallazzi, Stefano Zibetti, Laura Scholz-Diaz",
+    "collaborators": "",
+    "references": "Gallazzi et al 2005, MNRAS, 362, 41\nGallazzi et al 2006, MNRAS, 370, 1106\nGallazzi et al 2021, MNRAS, 502, 4457\nGallazzi et al 2025a, A&A, arXiv:2512.07952\nGallazzi et al 2025b, A&A, arXiv:2511.11805\nZibetti et al 2017, MNRAS, 468, 1902\n",
+    "requirements": "General astrophysics courses, \"Physics of galaxies\" course. Programming skills (idl, python recommended)",
+    "description": "The stellar populations in galaxies are fossil record that can be used to reconstruct their past formation history. In particular, the total and relative abundance of metals in stars are the result of the efficiency of star formation, gas and metal recycling, modulated by the stellar yield. The relative ratio of alpha-elements to Fe-peak elements is often used as an indicator of the timescale over which star formation quenches. However, it is also determined by the Initial Mass Function, often assumed to be constant and universal despite both observation and theoretical studies indicate that it is not.\nThe element abundance ratio, alpha\/Fe, together with total stellar metallicity and SFH can be estimated from the stellar continuum of high-S\/N spectra of large and representative samples, as provided by large and deep spectroscopic surveys at z<1, namely the SDSS in the local Universe, the LEGA-C survey and the upcoming WEAVE-StePS and 4MOST-StePS surveys at intermediate redshift. The goal of this thesis is to estimate alpha\/Fe using our Bayesian Stellar population Analysis (BaStA) code and newly developed models, for both star-forming and quiescent galaxies from these surveys. Correlating alpha\/Fe with several other properties, such as different diagnostics of SFH timescales and metallicity, and tracing its evolution with redshift, will put constraints on the efficiency of metal production and quenching timescale. These are crucial information to connect galaxy populations over the last 8 billion years to the early-formed high-redshift massive galaxies.\n",
+    "contacts": "anna.gallazzi@inaf.it",
+    "image": ""
+}
